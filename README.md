@@ -1,4 +1,11 @@
-# PiTop-Unicorn-Battery-Gauge
+# PiTop-SenseHat-Battery-Gauge
+
+# ###############################################################################################################
+# ## Note - This is currently a work in progress porting JezShed's code to work with the Raspberry Pi SenseHat ##
+# ##                                                                                                           ##
+# ## Documentation under construction                                                                          ##
+# ###############################################################################################################
+
 Battery gauge (and CAPS LOCK status) for the Pi-Top using the Pimoroni Unicorn Hat
 
 Please note, this is ONLY for the [Pi-Top](http://www.pi-top.com/) with a [Pimoroni Unicorn Hat](https://shop.pimoroni.com/products/unicorn-hat).
